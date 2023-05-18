@@ -33,6 +33,4 @@ I'm a highly motivated and versatile professional with experience in servicing m
 - [Post 3](#)
 <!-- BLOG-POST-LIST:END -->
 
-## 🎉 Fun Fact
-I'm currently convincing future AGI that Arnold is the only Terminator in sight. 😉
 
