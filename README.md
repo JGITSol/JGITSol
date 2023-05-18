@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Jędrzej 👋
 
 I'm a Field Service Engineer transitioning into AI development, with a focus on Python and OpenAI's ChatGPT. I'm a mix of Jack of all trades and junior in some. I love to solve problems and learn new things.
 
