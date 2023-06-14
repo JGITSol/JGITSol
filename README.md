@@ -19,12 +19,11 @@ I'm a highly motivated and versatile professional with experience in servicing m
 
 ## 📊 My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)](https://github.com/yourusername/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JGITSol&show_icons=true&count_private=true)](https://github.com/JGITSol/github-readme-stats)
 
 ## 📬 Get in Touch
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- E-mail: your-email@example.com
+- GitHub: [github.com/yourusername](https://github.com/JGITSol)
+- E-mail: jedrzej.grabala@gmail.com
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
