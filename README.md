@@ -19,7 +19,7 @@ I'm a highly motivated and versatile professional with experience in servicing m
 
 
 ## 📬 Get in Touch
-- GitHub: [github.com/yourusername](https://github.com/JGITSol)
+- GitHub: [github.com/JGITSol](https://github.com/JGITSol)
 - E-mail: jedrzej.grabala@gmail.com
 
 
