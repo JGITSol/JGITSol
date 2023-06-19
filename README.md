@@ -17,19 +17,9 @@ I'm a highly motivated and versatile professional with experience in servicing m
 - Deep Learning
 - Other AI Models
 
-## 📊 My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JGITSol&show_icons=true&count_private=true)](https://github.com/JGITSol/github-readme-stats)
 
 ## 📬 Get in Touch
 - GitHub: [github.com/yourusername](https://github.com/JGITSol)
 - E-mail: jedrzej.grabala@gmail.com
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Post 1](#)
-- [Post 2](#)
-- [Post 3](#)
-<!-- BLOG-POST-LIST:END -->
 
 
