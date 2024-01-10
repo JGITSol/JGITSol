@@ -18,7 +18,6 @@ I am a dynamic and motivated professional with a proven record of managing compl
 - **Other AI Models**: Continually expanding my knowledge on various AI models to stay abreast of the latest developments in the field.
 
 ## 📬 Get in Touch
-- Personal Website: [jgit.solutions](https://jgit.solutions)
 - E-mail: jedrzej.grabala@gmail.com
 - Dev.to: [dev.to/jgitsol](https://dev.to/jgitsol)
 
