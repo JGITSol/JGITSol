@@ -1,5 +1,5 @@
 # Greetings, I'm Jędrzej 👋
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'L3L2LE2QT');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/jgit_sol' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 I'm an experienced Field Service Engineer pivoting into the realm of AI development, with a keen interest in Python and OpenAI's ChatGPT. I'm a versatile professional, adept at wearing multiple hats and always eager to expand my knowledge and skills.
 
 ## 🚀 About Me
