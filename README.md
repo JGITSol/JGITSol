@@ -19,7 +19,7 @@ I am a dynamic and motivated professional with a proven record of managing compl
 
 ## 📬 Get in Touch
 - E-mail: jedrzej.grabala@gmail.com
-- Dev.to: [dev.to/jgitsol](https://dev.to/jgitsol)
+
 
 I'm always open to interesting conversations and opportunities. Feel free to reach out to me if you'd like to connect!
 <a href='https://ko-fi.com/jgit_sol' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
