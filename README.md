@@ -1,25 +1,52 @@
-# Greetings, I'm Jędrzej 👋
+# Hey, I'm Jędrzej 👋
 
-I'm an experienced Field Service Engineer pivoting into the realm of AI development, with a keen interest in Python and OpenAI's ChatGPT. I'm a versatile professional, adept at wearing multiple hats and always eager to expand my knowledge and skills.
+Field Service Engineer turned AI/ML Developer. I build things that solve real problems—from predictive models for polymer design competitions to full-stack fleet management systems. My background in medical imaging hardware gives me a unique perspective on system reliability and data integrity.
 
-## 🚀 About Me
-I am a dynamic and motivated professional with a proven record of managing complex functional projects in various environments. I have spent a significant part of my career servicing medical imaging equipment, primarily those utilizing X-ray technologies such as C-arm X-ray machines, CT scanners, and mobile X-ray systems. As I transition into the tech industry, I'm particularly drawn to the field of AI and machine learning, with a special interest in Natural Language Processing (NLP).
+## What I'm Building
 
-## 🛠 Skills
-- **Python**: Proficient in Python programming, a key language in AI and machine learning.
-- **OpenAI's ChatGPT**: Experienced in leveraging this advanced language model for various applications.
-- **Field Service Engineering**: Extensive background in maintaining and troubleshooting high-tech equipment in the medical field.
-- **CNC Machinery**: Knowledgeable in the operation and maintenance of CNC machines.
-- **Medical Imaging**: In-depth understanding of X-ray based medical imaging technologies including C-arms, CT scanners, and mobile X-ray systems.
+**🧪 [NeurIPSOpenPolymerPrediction2025](https://github.com/JGITSol/NeurIPSOpenPolymerPrediction2025)** ⭐2  
+Machine learning pipeline for polymer property prediction. Competition submission for NeurIPS 2025.  
+`Python` `Scikit-learn` `Feature Engineering`
 
-## 🎯 Currently Learning
-- **Advanced AI Techniques**: Actively learning and implementing advanced AI strategies to solve complex problems.
-- **Deep Learning**: Exploring the intricacies of deep learning models and their applications.
-- **Other AI Models**: Continually expanding my knowledge on various AI models to stay abreast of the latest developments in the field.
+**🤖 [RAG_Showcase](https://github.com/JGITSol/RAG_Showcase)**  
+Retrieval-Augmented Generation implementation demonstrating context-aware LLM responses.  
+`Python` `LangChain` `Vector Databases`
 
-## 📬 Get in Touch
-- E-mail: jedrzej.grabala@gmail.com
-- Website: https://jgitsolutions.space
+**📊 [IRA_showcase](https://github.com/JGITSol/IRA_showcase)** ⭐1  
+Intelligent research assistant with custom NLP workflows.  
+`Python` `OpenAI API` `Data Processing`
 
-I'm always open to interesting conversations and opportunities. Feel free to reach out to me if you'd like to connect!
-<a href='https://ko-fi.com/jgit_sol' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+**🚗 [fleet_mgmt_django](https://github.com/JGITSol/fleet_mgmt_django)** ⭐1  
+Full-featured vehicle fleet management system with real-time tracking and maintenance scheduling.  
+`Django` `PostgreSQL` `REST APIs`
+
+**🔧 [universal_solver](https://github.com/JGITSol/universal_solver)**  
+Modular problem-solving framework using computational notebooks.  
+`Jupyter` `NumPy` `Scientific Computing`
+
+## Tech Stack
+
+**Languages:** Python • JavaScript/TypeScript • SQL  
+**AI/ML:** PyTorch • Scikit-learn • LangChain • OpenAI API • Hugging Face  
+**Web:** Django • React • Node.js • PostgreSQL • REST APIs  
+**Tools:** Git • Docker • Jupyter • Linux • CI/CD
+
+## Background
+
+Spent years keeping CT scanners, C-arms, and mobile X-ray systems running in high-stakes environments. That taught me two things: complex systems fail in interesting ways, and good diagnostics beat guesswork every time. Now I apply that same debugging mentality to ML models and production code.
+
+Competed in data science challenges (NeurIPS, Ariel Data Challenge) because I learn best by shipping real solutions under constraints.
+
+## Currently Exploring
+
+- Advanced transformer architectures and their practical applications
+- Production ML systems and model deployment patterns
+- Building robust data pipelines for real-world datasets
+
+## Let's Connect
+
+📧 jedrzej.grabala@gmail.com  
+🌐 [jgitsolutions.space](https://jgitsolutions.space)  
+☕ [Buy me a coffee](https://ko-fi.com/jgit_sol)
+
+Open to collaboration on ML projects, technical discussions, or just talking shop about system design and data engineering.
