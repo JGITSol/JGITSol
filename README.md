@@ -13,8 +13,8 @@ Retrieval-Augmented Generation implementation demonstrating context-aware LLM re
 `Python` `LangChain` `Vector Databases`
 
 **📊 [IRA_showcase](https://github.com/JGITSol/IRA_showcase)** ⭐1  
-Intelligent research assistant with custom NLP workflows.  
-`Python` `OpenAI API` `Data Processing`
+Insurance Risk Prediction Application
+`Python`  `Data Processing`
 
 **🚗 [fleet_mgmt_django](https://github.com/JGITSol/fleet_mgmt_django)** ⭐1  
 Full-featured vehicle fleet management system with real-time tracking and maintenance scheduling.  
